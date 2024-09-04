@@ -74,3 +74,25 @@ The dataset used in this project includes various features related to customer b
    cd bonus-allocation-optimization
 
 
+
+   Optimization-of-Bonus-Allocation/
+├── data/
+│   ├── dataset.csv
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── Model_Training.ipynb
+│   ├── Model_Evaluation.ipynb
+├── scripts/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+├── models/
+│   ├── final_model.pkl
+├── streamlit_app/
+│   ├── app.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+
+
+
