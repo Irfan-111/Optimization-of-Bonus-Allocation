@@ -4,7 +4,7 @@ This project focuses on optimizing the allocation of bonuses in a betting app to
 
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#https://github.com/Irfan-111/Optimization-of-Bonus-Allocation/blob/main/README.md#project-overview)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Results](#results)
