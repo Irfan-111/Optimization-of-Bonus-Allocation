@@ -66,33 +66,5 @@ The dataset used in this project includes various features related to customer b
 - **Model Performance**: 
    - The SVM model achieved an accuracy of **95%**, significantly improving the prediction of which customers should receive bonuses.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bonus-allocation-optimization.git
-   cd bonus-allocation-optimization
-
-
-
-   Optimization-of-Bonus-Allocation/
-├── data/
-│   ├── dataset.csv
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Model_Training.ipynb
-│   ├── Model_Evaluation.ipynb
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-├── models/
-│   ├── final_model.pkl
-├── streamlit_app/
-│   ├── app.py
-├── README.md
-├── requirements.txt
-├── LICENSE
-
 
 
