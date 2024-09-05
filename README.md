@@ -1,5 +1,5 @@
 
-readme_content = """
+
 # Optimization of Bonus Allocation in Betting Apps
 
 ## Project Overview
